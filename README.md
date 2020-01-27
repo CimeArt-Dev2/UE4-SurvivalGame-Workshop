@@ -1,2 +1,3 @@
-# UE4-SurvivalGame-Workshop
-Unreal Engine 4 survival game main repository
+# SurvivalGame
+
+Developed with Unreal Engine 4
